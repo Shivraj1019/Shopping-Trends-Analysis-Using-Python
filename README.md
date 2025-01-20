@@ -78,7 +78,6 @@ In today's competitive market, understanding customer behavior is vital for opti
   - `pandas`: For data manipulation and cleaning.
   - `matplotlib` and `seaborn`: For visualizing data trends.
   - `numpy`: For numerical computations.
-  - `scikit-learn`: For clustering and segmentation.
 - **Tools:** Jupyter Notebook for interactive analysis.
 
 ---
